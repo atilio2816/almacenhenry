@@ -1,2 +1,2 @@
 # almacenhenry
-prueba de creacion de almacen curso henry 
+atilio mecoli esta prueba de crear un almacen desde github 
